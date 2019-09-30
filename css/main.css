@@ -12,19 +12,26 @@ img {
 
 ul {
   list-style-type: none;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 
 li {
 	float: left;
 }
 
+table {
+	margin-left:auto; 
+    margin-right:auto;
+}
+
 th {
 	font-family: helvetica;
 	font-weight: 400;
+	font-style: bold;
 }
 
 td {
 	font-family: helvetica;
 	font-weight: 200px;
+	text-align: center;
 }
