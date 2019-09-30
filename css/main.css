@@ -19,7 +19,7 @@ li {
 	float: left;
 }
 
-table {
+table.stats {
 	margin-left:auto; 
     margin-right:auto;
 }
