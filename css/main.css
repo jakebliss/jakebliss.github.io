@@ -16,7 +16,6 @@ ul {
 	margin-left:5%; 
     margin-right:5%;
   list-style-type: none;
-  margin-bottom: 50px;
 }
 
 li {
@@ -24,6 +23,7 @@ li {
 }
 
 table.stats {
+	margin-top: 50px;
 	width: 32%;
 	margin-left:34%; 
     margin-right:34%;
