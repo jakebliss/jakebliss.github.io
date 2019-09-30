@@ -1,5 +1,7 @@
 h1 {
 	font-family: helvetica;
+	font-weight: 600;
+	text-align: center;
 }
 
 img {
@@ -10,9 +12,19 @@ img {
 
 ul {
   list-style-type: none;
+  padding-bottom: 20px;
 }
 
 li {
 	float: left;
 }
 
+th {
+	font-family: helvetica;
+	font-weight: 400;
+}
+
+td {
+	font-family: helvetica;
+	font-weight: 200px;
+}
